@@ -1,0 +1,37 @@
+<h1 class="header">PiPyMote</h1>
+<p>An easy way to control your TV using a Raspberry Pi.
+</p>
+<p>Install the libCEC, run this site and click the buttons. </p>
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h3 class="panel-title">Tv Commands</h3>
+    </div>
+    <div class="panel-body">
+        <form action="display" method="post">
+            <h3 class="header">Power</h3>
+            <button type="submit" name="tvfunction" value="Tv On" class="btn btn-lg btn-block btn-raised btn-default" data-content="Powered On" data-toggle="snackbar" data-timeout="0">TV On</button>
+            <button type="submit" name="tvfunction" value="Tv Off" class="btn btn-lg btn-block btn-raised btn-warning" data-content="Powered Off" data-toggle="snackbar" data-timeout="0">TV Off</button>
+            <h3 class="header">Change Input</h3>
+            <div class="button-toolbar">
+                <div class="btn-group btn-group-raised">
+                    <button class="btn btn-sm" type="submit" name="tvfunction" value="input 1">Input 1</button>
+                    <button class="btn btn-sm" type="submit" name="tvfunction" value="input 2">Input 2</button>
+                    <button class="btn btn-sm" type="submit" name="tvfunction" value="input 3">Input 3</button>
+                    <button class="btn btn-sm" type="submit" name="tvfunction" value="input 4">Input 4</button>
+                </div>
+            </div>
+            <h3 class="header">Volume</h3>
+            <div class="slider shor slider-material-orange"></div>
+        </form>
+    </div>
+</div>
+<div class="panel panel-danger">
+    <div class="panel-heading">
+        <h3 class="panel-title">Pi Commands</h3>
+    </div>
+    <div class="panel-body">
+        <form action="display" method="post">
+            <button type="submit" name="pifunction" value="restart" class="btn btn-lg btn-block btn-raised btn-danger" data-content="Restarting RaspberryPi" data-toggle="snackbar" data-timeout="0">Restart Pi</button>
+        </form>
+    </div>
+</div>

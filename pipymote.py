@@ -6,6 +6,7 @@ from flask import redirect, url_for
 from pymote import pyMote
 from pprint import pprint
 
+import definitions
 
 tv = pyMote()
 app = Flask(__name__)
@@ -20,7 +21,7 @@ app.jinja_env.globals['get_resource_as_string'] = get_resource_as_string
 
 @app.route('/')
 def index():
-    return render_template('index.html')
+    return render_template('index.html', instructions=definitions.instructions, advanced_instructions=definitions.advanced_instructions)
 
 
 @app.route('/display', methods=['POST'])
@@ -29,13 +30,6 @@ def display():
     command(request.form)
     # command(request.form['tvfunction'])
     return redirect(url_for('index'))
-
-
-@app.route('/quit')
-def quit():
-    func = request.environ.get('werkzeug.server.shutdown')
-    func()
-    return "Quitting..."
 
 
 def command(command):

@@ -7,6 +7,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <!-- Mobile support -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+
     <!-- Material Design fonts -->
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -18,17 +21,12 @@
     <!-- Dropdown.js -->
     <link href="//cdn.rawgit.com/FezVrasta/dropdown.js/master/jquery.dropdown.css" rel="stylesheet">
     <!-- Page style -->
-
-    <!-- beautify preserve:start -->
     <style type=text/css>{{get_resource_as_string('static/css/index.css')}}</style>
     <style type=text/css>{{get_resource_as_string('static/css/snackbar.css')}}</style>
-    <!-- beautify preserve:end -->
-
     <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js?lang=ml&amp;skin=desert"></script>
     <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
     <style type=text/css>{{get_resource_as_string('static/css/small.css')}}</style>
 </head>
-
 <body>
     <div class="header-panel shadow-z-2">
         <div class="container-fluid">
@@ -50,86 +48,15 @@
             </nav>
             <div class="pages col-xs-12 col-sm-12 col-md-9">
                 <div class="row">
-                    <div class="col-xs-12 col-md-10 smalldisplay">
+                    <div class="col-xs-12 col-md-10">
                         <div class="well page" id="omgyouguysareawesome">
-                            <h1 class="header">Thanks!</h1>
-                            <h3 class="header">Bootstrap</h3>
-                            <a href="http://getbootstrap.com">http://getbootstrap.com</a>
-                            <h3 class="header">Bootstrap Material Design</h3>
-                            <a href="https://github.com/FezVrasta/bootstrap-material-design">https://github.com/FezVrasta/bootstrap-material-design</a>
-                            <h3 class="header">Flask</h3>
-                            <a href="http://flask.pocoo.org/docs/0.10/">http://flask.pocoo.org/docs/0.10/</a>
-                            <h3 class="header">libCEC</h3>
-                            <a href="https://github.com/Pulse-Eight/libcec">https://github.com/Pulse-Eight/libcec</a>
-                            <h3 class="header">Javascript code prettifier</h3>
-                            <a href="https://github.com/google/code-prettify">https://github.com/google/code-prettify</a>
+                            {% include 'thanks.html' %}
                         </div>
                         <div class="well page" id="instructions">
-                            <div class="panel-heading">
-                                <h1 class="panel-title">Install Instructions</h1>
-                            </div>
-                            <div class="panel-body">
-                                <h2 class="header">Install Raspian</h2>
-                                <div class="alert alert-dismissible alert-warning">
-                                    <button type="button" class="close" data-dismiss="alert">×</button>
-                                    <h3>Warning: Only confirmed to work on Wheezy</h3>
-                                </div>
-                                <div class="col-xs-12">
-                                    <div class="col-sm-3"></div>
-                                    <div class="col-sm-6">
-                                        <button onclick="window.open('http://downloads.raspberrypi.org/raspbian/images/raspbian-2015-05-07/')" class="btn btn-primary btn-block btn-raised">Get Wheezy</button>
-                                    </div>
-                                    <div class="col-sm-3"></div>
-                                </div>
-                                <div>
-                                    <h3 class="header">Update</h3>
-                                    <pre class="prettyprint linenums lang-ss"><code id="update.sh">{% include 'update.sh' %}</code></pre>
-                                    <h3 class="header">Create install_cec.sh</h3>
-                                    <pre class="prettyprint linenums lang-ss"><code id="install_cec.sh">{% include 'install_cec.sh' %}</code></pre>
-                                    <h3 class="header">Install flask and PiPyMote</h3>
-                                    <pre class="prettyprint linenums lang-ss"><code>{% include 'install_flask.sh' %}</code></pre>
-                                </div>
-                            </div>
+                            {% include 'instructions.html' %}
                         </div>
                         <div class="well page active" id="pimote">
-                            <h1 class="header">PiPyMote</h1>
-                            <p>An easy way to control your TV using a Raspberry Pi.
-                            </p>
-                            <p>Install the libCEC, run this site and click the buttons. </p>
-                            <div class="panel panel-primary">
-                                <div class="panel-heading">
-                                    <h3 class="panel-title">Tv Commands</h3>
-                                </div>
-                                <div class="panel-body">
-                                    <form action="display" method="post">
-                                        <h3 class="header">Power</h3>
-                                        <button type="submit" name="tvfunction" value="Tv On" class="btn btn-lg btn-block btn-raised btn-default" data-content="Powered On" data-toggle="snackbar" data-timeout="0">TV On</button>
-                                        <button type="submit" name="tvfunction" value="Tv Off" class="btn btn-lg btn-block btn-raised btn-warning" data-content="Powered Off" data-toggle="snackbar" data-timeout="0">TV Off</button>
-                                        <h3 class="header">Change Input</h3>
-                                        <div class="button-toolbar">
-                                            <div class="btn-group btn-group-raised">
-                                                <button class="btn btn-sm" type="submit" name="tvfunction" value="input 1">Input 1</button>
-                                                <button class="btn btn-sm" type="submit" name="tvfunction" value="input 2">Input 2</button>
-                                                <button class="btn btn-sm" type="submit" name="tvfunction" value="input 3">Input 3</button>
-                                                <button class="btn btn-sm" type="submit" name="tvfunction" value="input 4">Input 4</button>
-                                            </div>
-                                        </div>
-
-                                        <h3 class="header">Volume</h3>
-                                        <div class="slider shor slider-material-orange"></div>
-                                    </form>
-                                </div>
-                            </div>
-                            <div class="panel panel-danger">
-                                <div class="panel-heading">
-                                    <h3 class="panel-title">Pi Commands</h3>
-                                </div>
-                                <div class="panel-body">
-                                    <form action="display" method="post">
-                                        <button type="submit" name="pifunction" value="restart" class="btn btn-lg btn-block btn-raised btn-danger" data-content="Restarting RaspberryPi" data-toggle="snackbar" data-timeout="0">Restart Pi</button>
-                                    </form>
-                                </div>
-                            </div>
+                            {% include 'control.html' %}
                         </div>
                     </div>
                 </div>

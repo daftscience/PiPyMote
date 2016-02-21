@@ -1,0 +1,37 @@
+<!-- <div class="panel-heading">
+    <h1 class="panel-title">Install Instructions</h1>
+</div> -->
+<div class="panel-body">
+    <h1 class="header">Install Instructions</h1>
+    <h3 class="header">Raspian Setup</h3>
+    <div class="alert alert-dismissible alert-warning">
+        <button type="button" class="close" data-dismiss="alert">×</button>
+        <h3>Warning: Only confirmed to work on Wheezy</h3>
+    </div>
+    <div class="col-xs-12">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+            <button onclick="window.open('http://downloads.raspberrypi.org/raspbian/images/raspbian-2015-05-07/')" class="btn btn-primary btn-block btn-raised">Get Wheezy</button>
+        </div>
+        <div class="col-sm-3"></div>
+    </div>
+    <div>
+        {% for instruction in instructions %}
+           <h4 class="header">{{instruction.description}}</h4>
+           <pre class="prettyprint lang-bsh {% if instruction.linenums %}linenums{%endif%}"><code></code>{{instruction.command}}</pre>
+           <!-- <pre class="prettyprint lang-bash"><code></code>{{instruction.command}}</pre> -->
+        {% endfor %}
+        <h4 class="header">Open your browser</h4>
+        <pre class="prettyprint lang-bsh"><code>http://ip:5000</code></pre>
+    </div>
+</div>
+
+<div class="panel-body">
+    <h1 class="header">Making it Auto run</h1>
+    <div>
+        {% for instruction in advanced_instructions %}
+           <h4 class="header">{{instruction.description}}</h4>
+           <pre class="prettyprint lang-bsh {% if instruction.linenums %}linenums{%endif%}"><code></code>{{instruction.command}}</pre>
+        {% endfor %}
+    </div>
+</div>
