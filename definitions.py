@@ -76,7 +76,7 @@ echo''',
     },
     {
         "description": "Test it out",
-        "command": "cd pipymote\npython pipymote",
+        "command": "cd PiPyMote\npython pipymote",
         "linenums": False}
 ]
 
@@ -101,7 +101,7 @@ advanced_instructions = [
         "description": "Add the following",
         "command": '''[program:pipymote]
 command = gunicorn pipymote:app -b 0.0.0.0:5000
-directory = /home/pi/pipymote
+directory = /home/pi/PiPyMote
 user = pi''',
         "linenums": True
     },
