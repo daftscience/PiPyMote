@@ -1,0 +1,1298 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Proces",
+				"ProcessCommandTx	function"
+			],
+			[
+				"init",
+				"InitLibCec	function"
+			],
+			[
+				"Pro",
+				"ProcessCommandTx	function"
+			],
+			[
+				"proces",
+				"ProcessCommandScan"
+			],
+			[
+				"page",
+				"getDestinationPageNumber"
+			],
+			[
+				"found",
+				"found_depth"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"tab",
+				"tab"
+			],
+			[
+				"tb",
+				"tbl"
+			],
+			[
+				"draw",
+				"drawtop"
+			],
+			[
+				"dra",
+				"drawtop"
+			],
+			[
+				"par",
+				"pa	My Paragraph"
+			],
+			[
+				"pa",
+				"pa	My Paragraph"
+			],
+			[
+				"newth",
+				"\\newthought"
+			],
+			[
+				"eg",
+				"\\begin"
+			],
+			[
+				"item",
+				"item	Itemize"
+			],
+			[
+				"ref",
+				"refptch	Part and Chapter"
+			],
+			[
+				"pr",
+				"\\prettyimage"
+			],
+			[
+				"fa",
+				"\\faCheckSquareO"
+			],
+			[
+				"font",
+				"font_options"
+			],
+			[
+				"no",
+				"\\noindent"
+			],
+			[
+				"bo",
+				"\\bolditalicface"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/index.html",
+			"settings":
+			{
+				"buffer_size": 10132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pipymote.py",
+			"settings":
+			{
+				"buffer_size": 1634,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/tom/Downloads/Sublime Text Build 3102 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 600,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/index.css",
+			"settings":
+			{
+				"buffer_size": 5847,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+					"Force"
+				]
+			],
+			[
+				"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+					"Force"
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/User/Detex.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Detex.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 708.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"instp",
+				"Package Control: Install Package"
+			],
+			[
+				"instlpa",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"insp",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"PRV",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"orgm",
+				"Set Syntax: orgmode"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"qui",
+				"QuickSimplenote: New Note"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"clean",
+				"LaTeX-Plus: Clean auxiliary files"
+			],
+			[
+				"instpa",
+				"Package Control: Install Package"
+			],
+			[
+				"terms",
+				"BracketHighlighter: Toggle String Bracket Escape Mode"
+			],
+			[
+				"CLEAN",
+				"LaTeX-Plus: Clean auxiliary files (force)"
+			],
+			[
+				"removpa",
+				"Package Control: Remove Package"
+			],
+			[
+				"INST",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"inspa",
+				"Package Control: Install Package"
+			],
+			[
+				"setsy",
+				"Set Syntax: orgmode"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"sch",
+				"Schemr: Reset scheme for current syntax"
+			],
+			[
+				"colrsch",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorse",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorsch",
+				"Color Scheme Editor: Goto next matching scope"
+			],
+			[
+				"cosynt",
+				"Schemr: Reset scheme for current syntax"
+			],
+			[
+				"colorsed",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"schesynt",
+				"Schemr: Reset scheme for current syntax"
+			],
+			[
+				"schems",
+				"Schemr: List all schemes"
+			],
+			[
+				"schemrset",
+				"Schemr: Set scheme for current syntax"
+			],
+			[
+				"sche",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"pref",
+				"Preferences: Settings - User"
+			],
+			[
+				"ogrm",
+				"Set Syntax: orgmode"
+			],
+			[
+				"note",
+				"Set Syntax: Notes"
+			],
+			[
+				"editpr",
+				"Project: Edit Project"
+			],
+			[
+				"remopa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pacins",
+				"Package Control: Install Package"
+			],
+			[
+				"synlat",
+				"Set Syntax: LaTeXing"
+			],
+			[
+				"buil",
+				"LaTeX-Plus: Build"
+			],
+			[
+				"build",
+				"Build With: LaTex-Plus - Force"
+			],
+			[
+				"clea",
+				"LaTeX-Plus: Clean auxiliary files (force)"
+			],
+			[
+				"inapac",
+				"Package Control: Install Package"
+			],
+			[
+				"isnpa",
+				"Package Control: Install Package"
+			],
+			[
+				"instpac",
+				"Package Control: Install Package"
+			],
+			[
+				"lat",
+				"Build With: LaTex-Plus - Force"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"latp",
+				"LaTeX-Plus: Choose Build System"
+			],
+			[
+				"remp",
+				"Package Control: Remove Package"
+			],
+			[
+				"rempa",
+				"Package Control: Remove Package"
+			],
+			[
+				"latex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"latexcl",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"remopac",
+				"Package Control: Remove Package"
+			],
+			[
+				"Build: ",
+				"Build With: LaTeX (TikZ)"
+			],
+			[
+				"latext",
+				"Preferences: LaTeXing Settings - Toggle Value"
+			],
+			[
+				"inspla",
+				"Package Control: Install Package"
+			],
+			[
+				"settingsl",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"setinlat",
+				"Preferences: Settings - Default"
+			],
+			[
+				"check",
+				"LaTeXing: Check System"
+			],
+			[
+				"latexting",
+				"Preferences: LaTeXing Settings - Toggle Value"
+			],
+			[
+				"colosu",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			]
+		],
+		"width": 764.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"git clone git@github.com:shagabutdinov/sublime-align-cursors.git AlignCursors;",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/tom/Desktop/webmote",
+		"/C/Users/tom/Desktop/webmote/static",
+		"/C/Users/tom/Desktop/webmote/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/tom/Desktop/webmote/static/tm80.css",
+		"/C/Users/tom/Desktop/webmote/templates/install_cec.sh",
+		"/C/Users/tom/Desktop/webmote/templates/update.sh",
+		"/C/Users/tom/Desktop/webmote/static/prettify/run_prettify.js",
+		"/C/Users/tom/Desktop/webmote/pipymote.py",
+		"/C/Users/tom/Desktop/webmote/static/material_stuff.js",
+		"/C/Users/tom/Desktop/webmote/remote.py",
+		"/C/Users/tom/Desktop/webmote/pyMote.py",
+		"/C/Users/tom/Desktop/webmote/templates/install_flask.sh",
+		"/C/Users/tom/Desktop/webmote/ftpsync.settings",
+		"/C/Users/tom/Desktop/webmote/static/prism.css",
+		"/C/Users/tom/Desktop/webmote/libcec.py",
+		"/C/Users/tom/Desktop/webmote/cectest.py",
+		"/C/Users/tom/Desktop/webmote/static/index.css",
+		"/C/Users/tom/Desktop/webmote/static/snackbar.js",
+		"/C/Users/tom/Desktop/webmote/static/snackbar.css",
+		"/C/Users/tom/Desktop/webmote/static/prism.js",
+		"/C/Users/tom/Downloads/Sublime Text Build 3102 x64/Data/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/tom/Desktop/webmote/test.py",
+		"/C/Users/tom/Downloads/Sublime Text Build 3102 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/tom/Documents/Notes/test.py",
+		"/C/Users/tom/Downloads/Sublime Text Build 3102 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/tom/Downloads/Sublime Text Build 3102 x64/Data/Packages/orgmode/messages/install.org",
+		"/C/Users/tom/Downloads/Sublime Text Build 3102 x64/Data/Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+		"/C/Users/tom/Documents/Notes/test.js",
+		"/C/Users/tom/Documents/Notes/Cerner Notes.org",
+		"/C/Users/tom/Downloads/Sublime Text Build 3102 x64/Data/Packages/orgmode/Color Scheme/orgmode.tmTheme",
+		"/C/Users/tom/Downloads/Sublime Text Build 3102 x64/Data/Packages/User/orgmode.sublime-settings",
+		"/C/Users/tom/Downloads/Sublime Text Build 3102 x64/Data/Packages/orgmode/orgmode.sublime-settings",
+		"/C/Users/tom/Downloads/Sublime Text Build 3102 x64/Data/Packages/orgmode/messages/TEST.JS",
+		"/C/Users/tom/Downloads/Sublime Text Build 3102 x64/Data/Packages/ThemeTweaker/theme_tweaker.sublime-settings",
+		"/C/Users/tom/Documents/Notes/Changes to the A Domain",
+		"/C/Users/tom/trainingmanual/.gitignore",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/Data/Packages/User/LaTeX-Plus.sublime-settings",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/Data/Packages/User/LaTeX.sublime-settings",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/Data/Packages/User/LaTeX+.sublime-settings",
+		"/C/Users/tom/Downloads/.ptmp137026/linux/TouchKit32/setup.sh",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/Data/Packages/orgmode/messages/install.org",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/Data/Packages/orgmode/orgmode.sublime-settings",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/Data/Packages/orgmode/messages/Cerner.org",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/Data/Packages/User/orgmode.sublime-settings",
+		"/C/Users/tom/HomeMirror/app/src/main/res/keys.xml",
+		"/D/config.txt",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/Data/Packages/QuickSimplenote/quick_simplenote.sublime-settings",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/Data/Packages/LaTeX-Plus/LaTeX-Plus.sublime-settings",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/pdf_tools.py",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/COLLECTIONINQ/filters.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/COLLECTIONINQ/part.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/COLLECTIONINQ/lists.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/COMMENTS/templates.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/COLLECTIONINQ/introduction.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/CINQUIRY/location.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/cerner_preamble.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/advancedfunctions/part.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/advancedfunctions/introduction.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/CernerTrainingManual.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/classguide2.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TrainingScript/homework_2.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TrainingScript/homework_1.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/advancedfunctions/handout.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/activity_Functions.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/APPBAR/appbar.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/LOGIN/getting_started.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TRANSFER/create_list.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/routing/routing.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/CINQUIRY/view.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/ORV/part.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/302 pages",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/class_guide.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/Course_Handout.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/ARE/part.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/LOGIN/login_accession.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/ARE/differential.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/LOGIN/part.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/PENDING/part.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/labels_stripped.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/DOE/doe_new_order.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TRANSFER/part.tex",
+		"/C/Users/tom/Documents/ShareX/HotkeysConfig.json",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/COMMENTS/part.tex",
+		"/C/Users/tom/Desktop/InstrumentScripts/sunquest/KTOP1.TXT",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/CernerTrainingManual.aux",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/ARE/basics.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/tufte-common.def",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/tufte-book.cls",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/layout.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TrainingScript/class_activities.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TrainingScript/handout.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TrainingScript/appbar_activity.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TrainingScript/part.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TrainingScript/class_guide.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/labels.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TrainingScript/handout.aux",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/PENDING/branching.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/ARE/tips.tex",
+		"/C/Users/tom/Desktop/Instrument Scripts/Remisol - Seton Highland Lakes -  HLX1.TXT",
+		"/C/Users/tom/Desktop/Recording_20151219_1255.mht",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/appendix.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TrainingScript/activity_functions.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/ORV/search.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/pretty_labels.py",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/latex_book.sublime-project",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/ORV/purpose.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TrainingScript/handout.toc",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TrainingScript/pretty_labels.py",
+		"/C/Users/tom/Desktop/labels.html",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TrainingScript/labels.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/DOE/part.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TRANSFER/getting_started.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/accessions/accn.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/CernerTrainingManual.gls",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/DOE/doe_accession_addon.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/ORV/cancel.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TrainingScript/introduction.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/DOE/customize_doe.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/routing/sebdrouting.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/routing/smcrouting.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/hotkeys.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/hotkey_handout.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/epigraph.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/labels/introduction.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/labels/handout.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/TRANSFER/troubleshooting.tex",
+		"/C/Users/tom/OneDrive/Sublime Text Build 3083 x64/projects/Cerner Reference Guide/DOE/introduction.tex"
+	],
+	"find":
+	{
+		"height": 132.0
+	},
+	"find_in_files":
+	{
+		"height": 666.0,
+		"where_history":
+		[
+			"C:\\Users\\tom\\OneDrive\\Sublime Text Build 3083 x64\\projects\\Cerner Reference Guide",
+			"C:\\Users\\tom\\OneDrive\\Sublime Text Build 3083 x64\\projects\\Cerner Reference Guide,*.aux",
+			"C:\\Users\\tom\\OneDrive\\Sublime Text Build 3083 x64\\projects\\Cerner Reference Guide,-*.aux",
+			"C:\\Users\\tom\\OneDrive\\Sublime Text Build 3083 x64\\projects\\Cerner Reference Guide,-*.tex",
+			"C:\\Users\\tom\\OneDrive\\Sublime Text Build 3083 x64\\projects\\Cerner Reference Guide"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"name=\"submit\"",
+			"nav",
+			"99",
+			"margin",
+			"padding",
+			"well",
+			"pre",
+			"run",
+			"pret",
+			"css",
+			"print",
+			"InitLibCec",
+			"debug",
+			"CommandFromString",
+			"callba",
+			"logcal",
+			"bar",
+			"scroll",
+			"protein",
+			"Changes",
+			"function",
+			"select",
+			"inden",
+			"array",
+			"text",
+			"page",
+			"js",
+			"flow",
+			"\"",
+			"rotate",
+			"display",
+			"cchem",
+			"\\n",
+			"once",
+			"uniqu",
+			"perl",
+			"activity",
+			"locat",
+			"wip",
+			"ref",
+			"refblock",
+			"ref",
+			"answerf",
+			"answerFP",
+			"sideref",
+			"answerfp",
+			"test",
+			"questioncolor",
+			"questionco",
+			"answerkey",
+			"answerrefcolor",
+			"how do you",
+			"refquestion",
+			"list",
+			"basic",
+			"Basic",
+			"csf",
+			"CSF",
+			"csfct",
+			"label",
+			"comments",
+			"blood_",
+			"answerkey",
+			"answerkeycol",
+			"showanswer",
+			"blood_acc",
+			"fp",
+			"blood",
+			"sideref",
+			"ref",
+			"cleardouble",
+			"chapter",
+			"answercolor",
+			"chapter",
+			"subsection",
+			"section",
+			"check",
+			"activity",
+			"font",
+			"answer",
+			"branhing",
+			"a",
+			"print",
+			"thing",
+			"print",
+			"print_outline",
+			"get_pages",
+			"hint",
+			"activity",
+			"trouble",
+			"newlabel\\{[^}]*\\}",
+			"onedrive",
+			"print",
+			"newlabel\\{[^}]*\\}",
+			"print",
+			"            ",
+			"newlabel\\{[^}]*\\}",
+			"ctrl+x",
+			"ctrl+shift+x",
+			"ctrl+shift+d",
+			"delete",
+			"line",
+			"delete",
+			"cut",
+			"copy",
+			"\\label\\{[^}]*\\}",
+			"\\cfpart",
+			"\\cfpart{",
+			".aux",
+			"aux",
+			"\\label{",
+			"\\\\label{",
+			"marginnote",
+			"margin",
+			"activity",
+			"fancy",
+			"re",
+			"lo",
+			"le",
+			"pagecol",
+			"pagecolor",
+			"maketitle",
+			"titlecolor",
+			"corr",
+			"comment",
+			"black",
+			"unable t",
+			"info"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"name=\"tvfunction\"",
+			"Source Changes",
+			"",
+			"Printer",
+			"Electrolytes",
+			"Synovial",
+			"section",
+			"question",
+			"",
+			"refpt",
+			"reficon",
+			"\\benches",
+			"\\instruments",
+			"\\bench",
+			"\\subsects",
+			"\\subsect",
+			"\\instrument",
+			"\\sect",
+			"\\sects",
+			"newsample",
+			"toolbar",
+			"Williamson",
+			"SWC",
+			"SSW",
+			"Seton Southwest",
+			"Seton Northwest",
+			"SNW",
+			"SHL",
+			"Highland Lakes",
+			"SHC",
+			"SEBD",
+			"DC",
+			"Shortcuts",
+			"toolbar"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8257,
+								8257
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3840.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pipymote.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1356,
+								1356
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 838.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/tom/Downloads/Sublime Text Build 3102 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 600,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								600,
+								600
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "static/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5847,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4328,
+								4328
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6278.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 118.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 280.0
+	},
+	"output.find_results":
+	{
+		"height": 164.0
+	},
+	"pinned_build_system": "",
+	"project": "webmote.sublime-project",
+	"replace":
+	{
+		"height": 216.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"CernerTrainingManual.tex"
+			],
+			[
+				"cer",
+				"cerner_preamble.tex"
+			],
+			[
+				"a",
+				"activity_Functions.tex"
+			],
+			[
+				"cerpr",
+				"cerner_preamble.tex"
+			],
+			[
+				"comm",
+				"tufte-common.def"
+			],
+			[
+				"tufte",
+				"tufte-book.cls"
+			],
+			[
+				"layo",
+				"layout.tex"
+			],
+			[
+				"cern",
+				"cerner_preamble.tex"
+			],
+			[
+				"cerner",
+				"cerner_preamble.tex"
+			],
+			[
+				"cerp",
+				"cerner_preamble.tex"
+			],
+			[
+				"lab",
+				"TrainingScript\\labels.tex"
+			],
+			[
+				"cernp",
+				"cerner_preamble.tex"
+			],
+			[
+				"layou",
+				"layout.tex"
+			],
+			[
+				"layout",
+				"layout.tex"
+			],
+			[
+				"pre",
+				"cerner_preamble.tex"
+			],
+			[
+				"lay",
+				"layout.tex"
+			],
+			[
+				"pream",
+				"cerner_preamble.tex"
+			],
+			[
+				"cernetrai",
+				"CernerTrainingManual.tex"
+			],
+			[
+				"terms",
+				"terms.tex"
+			],
+			[
+				"ep",
+				"epigraph.tex"
+			],
+			[
+				"routing",
+				"PENDING\\routing.tex"
+			],
+			[
+				"pr",
+				"cerner_preamble.tex"
+			],
+			[
+				"term",
+				"terms.tex"
+			],
+			[
+				"tuf",
+				"tufte-common.def"
+			],
+			[
+				"cert",
+				"CernerTrainingManual.tex"
+			],
+			[
+				"tuftco",
+				"tufte-common.def"
+			],
+			[
+				"tutbo",
+				"tufte-book.cls"
+			],
+			[
+				"ter",
+				"terms.tex"
+			],
+			[
+				"bl",
+				"bloodbank_terms.tex"
+			],
+			[
+				"p",
+				"cerner_preamble.tex"
+			],
+			[
+				"c",
+				"cerner_preamble.tex"
+			],
+			[
+				"routin",
+				"PENDING\\dcrouting.tex"
+			],
+			[
+				"shcrout",
+				"PENDING\\shcrouting.tex"
+			],
+			[
+				"sebdr",
+				"PENDING\\sebdrouting.tex"
+			],
+			[
+				"dcrout",
+				"PENDING\\dcrouting.tex"
+			],
+			[
+				"dcr",
+				"PENDING\\dcrouting.tex"
+			],
+			[
+				"bh",
+				"PENDING\\bhrouting.tex"
+			],
+			[
+				"sh",
+				"PENDING\\shcrouting.tex"
+			],
+			[
+				"tips",
+				"DOE\\tips.tex"
+			],
+			[
+				"hks",
+				"LOGIN\\hotkeys.tex"
+			],
+			[
+				"cp",
+				"cerner_preamble.tex"
+			],
+			[
+				"notes",
+				"LOGIN\\manual.notes"
+			],
+			[
+				"main",
+				"main.tex"
+			],
+			[
+				"doeha.tex",
+				"DOE\\handout.tex"
+			],
+			[
+				"mai",
+				"main.tex"
+			],
+			[
+				"orvsear",
+				"ORV\\search.tex"
+			],
+			[
+				"main.tex",
+				"main.tex"
+			],
+			[
+				"maite",
+				"main.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1125.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\tom\\Downloads\\Cerner Reference Guide\\latex_book.sublime-project"
+			]
+		],
+		"width": 1619.0
+	},
+	"select_symbol":
+	{
+		"height": 708.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 748.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 453.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
